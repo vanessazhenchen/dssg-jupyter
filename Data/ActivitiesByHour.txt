@@ -1,0 +1,4 @@
+Week, Reading, Playing, Watching TV
+Week 1, 4, 2, 3
+Week 2, 5, 3, 2
+Week 3, 5, 1, 3
