@@ -1,0 +1,146 @@
+App.,Class,Order,Family,Genus,Importer,Exporter,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+I,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MW,,34.8,specimens,l,S,W
+I,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MW,,20,specimens,ml,S,W
+I,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MW,,120,specimens,,S,W
+I,Aves,Falconiformes,Falconidae,Falco,SI,AE,1,,live,,T,C
+I,Aves,Falconiformes,Falconidae,Falco,SI,AE,2,,live,,T,C
+I,Aves,Falconiformes,Falconidae,Falco,SI,AE,1,,live,,T,D
+I,Mammalia,Carnivora,Felidae,Acinonyx,BG,NA,1,,trophies,,H,W
+I,Mammalia,Carnivora,Felidae,Acinonyx,MW,ZA,14,,live,,N,W
+I,Mammalia,Carnivora,Felidae,Panthera,BG,ZW,0,,trophies,,H,W
+I,Mammalia,Primates,Hominidae,Gorilla,CZ,RW,,52,specimens,g,S,W
+I,Mammalia,Primates,Hominidae,Gorilla,KE,RW,,0.5,specimens,ml,S,W
+I,Mammalia,Primates,Hominidae,Gorilla,US,RW,,4901,specimens,g,S,W
+I,Mammalia,Primates,Hominidae,Gorilla,US,RW,,4.8,specimens,ml,S,W
+I,Mammalia,Primates,Hominidae,Pan,KE,RW,,0.5,specimens,ml,S,W
+I,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,RW,ZA,18,,live,,N,R
+II,Aves,Falconiformes,Accipitridae,Accipiter,RS,HR,1,,live,,T,C
+II,Aves,Falconiformes,Accipitridae,Accipiter,RS,RO,2,,live,,T,C
+II,Aves,Falconiformes,Accipitridae,,RS,SK,1,,live,,T,C
+II,Aves,Falconiformes,Accipitridae,Busarellus,US,PE,,4,specimens,,S,W
+II,Aves,Falconiformes,Accipitridae,Buteo,US,PE,,4,specimens,,S,W
+II,Aves,Falconiformes,Accipitridae,Leucopternis,US,PE,,4,specimens,,S,W
+II,Aves,Falconiformes,Accipitridae,Spizaetus,US,PE,,1,live,,T,C
+II,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,CH,BG,,22.195,caviar,kg,T,C
+II,Actinopteri,Acipenseriformes,Acipenseridae,Huso,CH,BG,,3.69,caviar,kg,T,C
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,CH,MO,,2,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,CH,RS,,5,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,JP,MO,,2,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MG,FR,1566,,skin pieces,,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,AU,3,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,BE,2,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,CH,6,,leather products (small),,T,C
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,CH,2,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,FR,5,,jewellery,,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,FR,32,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,GB,1,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,IT,3,,leather products (large),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,IT,19,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,AT,1,,leather products (small),,T,C
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,CH,19,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,NL,1,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,US,62,,specimens,,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Alligator,SI,CH,4,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,CH,2,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,53,,leather products (small),,T,W
+II,Reptilia,Crocodylia,Alligatoridae,Caiman,MG,FR,25,,skin pieces,,T,C
+II,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,4,,leather products (small),,T,C
+II,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,BR,12,,leather products (small),,T,R
+II,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,45,,leather products (small),,T,W
+II,Mammalia,Artiodactyla,Camelidae,Lama,PE,AR,151.14,,hair,kg,T,W
+II,Mammalia,Artiodactyla,Camelidae,Lama,US,PE,,1,garments,,T,W
+II,Mammalia,Artiodactyla,Camelidae,Vicugna,GB,PE,,3,garments,,T,W
+II,Mammalia,Artiodactyla,Camelidae,Vicugna,IT,PE,,943.351,hair,kg,T,W
+II,Mammalia,Artiodactyla,Camelidae,Vicugna,US,PE,,10,garments,,T,W
+II,Mammalia,Primates,Cercopithecidae,Cercopithecus,CZ,RW,,24,specimens,g,S,W
+II,Mammalia,Primates,Cercopithecidae,Cercopithecus,KE,RW,,0.5,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Cercopithecus,US,RW,,1.6,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Cercopithecus,US,RW,,12,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Cercopithecus,US,ET,,3,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Chlorocebus,KE,RW,,0.25,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,RW,,28.8,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Colobus,BE,ET,,1,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Colobus,CN,ET,,150,live,,T,W
+II,Mammalia,Primates,Cercopithecidae,Colobus,DE,ET,,1,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Colobus,US,ET,,10,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Papio,KE,RW,,0.25,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Papio,US,ET,,1,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Papio,US,RW,,13.6,specimens,ml,S,W
+II,Mammalia,Primates,Cercopithecidae,Papio,ZA,ET,,1,skulls,,H,W
+II,Mammalia,Primates,Cercopithecidae,Papio,CA,ET,,1,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Papio,US,ET,,13,trophies,,H,W
+II,Mammalia,Primates,Cercopithecidae,Theropithecus,US,ET,,5,trophies,,H,W
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BG,ZW,1,,trophies,,H,W
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ES,MO,,1,leather products (small),,T,C
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,ET,,4,skins,,T,R
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,MW,,5035,skins,,T,R
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,FR,5,,leather products (small),,T,R
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,IT,6,,leather products (small),,T,R
+II,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ZW,MW,,414,skins,,T,W
+II,Aves,Falconiformes,Falconidae,Micrastur,US,PE,,3,specimens,,S,W
+II,Aves,Falconiformes,Falconidae,Micrastur,US,PE,,4,specimens,,S,W
+II,Mammalia,Carnivora,Felidae,Caracal,US,ET,,1,trophies,,H,W
+II,Mammalia,Carnivora,Felidae,Felis,MX,ET,,1,trophies,,H,W
+II,Mammalia,Carnivora,Felidae,Felis,US,ET,,4,trophies,,H,W
+II,Mammalia,Carnivora,Felidae,Panthera,RW,ZA,2,,live,,N,W
+II,Aves,Gruiformes,Gruidae,Balearica,US,RW,,500,specimens,g,S,W
+II,Aves,Gruiformes,Gruidae,Balearica,ZA,RW,,2000,specimens,g,S,W
+II,Mammalia,Primates,Hominidae,,CG,AO,,1,live,,Z,I
+II,Mammalia,Primates,Hominidae,,ZM,AO,,1,live,,Z,I
+II,Aves,Psittaciformes,Loriidae,Trichoglossus,MW,ZA,10,,live,,T,C
+II,Mammalia,Carnivora,Mustelidae,Aonyx,US,MW,,23,specimens,,S,W
+II,Mammalia,Carnivora,Otariidae,Arctocephalus,CN,AO,,223,live,,T,W
+II,Mammalia,Carnivora,Otariidae,Arctocephalus,CN,AO,,90,live,,Z,W
+II,Mammalia,Carnivora,Otariidae,Arctocephalus,CZ,AO,,3,live,,S,W
+II,Mammalia,Carnivora,Otariidae,Arctocephalus,RS,AO,,3,live,,T,W
+II,Mammalia,Carnivora,Otariidae,Arctocephalus,TR,AO,,18,live,,Z,W
+II,Aves,Psittaciformes,Psittacidae,Agapornis,RW,NL,1,,live,,P,C
+II,Aves,Psittaciformes,Psittacidae,Ara,MW,ZA,10,,live,,T,C
+II,Aves,Psittaciformes,Psittacidae,Eclectus,MW,ZA,10,,live,,T,C
+II,Aves,Psittaciformes,Psittacidae,Pionites,US,PE,,9,specimens,,S,W
+II,Aves,Psittaciformes,Psittacidae,Pionopsitta,US,PE,,4,specimens,,S,W
+II,Aves,Psittaciformes,Psittacidae,Pyrrhura,US,PE,,41,specimens,,S,W
+II,Reptilia,Serpentes,Pythonidae,Python,MO,BR,12,,leather products (small),,T,W
+II,Reptilia,Serpentes,Pythonidae,Python,MO,CH,5,,leather products (small),,T,C
+II,Reptilia,Serpentes,Pythonidae,Python,MO,FR,1,,leather products (small),,T,C
+II,Reptilia,Serpentes,Pythonidae,Python,MO,IT,33,,leather products (small),,T,W
+II,Reptilia,Serpentes,Pythonidae,Python,MO,IT,6,,leather products (small),,T,C
+II,Reptilia,Serpentes,Pythonidae,Python,MO,MY,1,,leather products (small),,T,C
+II,Aves,Strigiformes,Strigidae,Glaucidium,US,PE,,4,specimens,,S,W
+II,Aves,Strigiformes,Strigidae,Otus,US,PE,,7,specimens,,S,W
+II,Aves,Strigiformes,Strigidae,Pulsatrix,JP,PE,,6,live,,T,F
+II,Mammalia,Artiodactyla,Tayassuidae,Pecari,AU,PE,,72,garments,,T,W
+II,Mammalia,Artiodactyla,Tayassuidae,Pecari,IT,PE,,2350,skins,,T,W
+II,Mammalia,Artiodactyla,Tayassuidae,Tayassu,DE,PE,,69,skins,,T,W
+II,Mammalia,Artiodactyla,Tayassuidae,Tayassu,IT,PE,,359,skins,,T,W
+II,Reptilia,Sauria,Teiidae,Dracaena,MY,PE,,25,live,,T,F
+II,Reptilia,Sauria,Teiidae,Dracaena,US,PE,,100,live,,T,F
+II,Reptilia,Testudines,Testudinidae,Stigmochelys,CN,ET,,47,live,,T,C
+II,Reptilia,Testudines,Testudinidae,Stigmochelys,TW,ET,,100,live,,T,C
+II,Aves,Apodiformes,Trochilidae,Amazilia,US,PE,,4,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Chlorostilbon,US,PE,,3,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Florisuga,US,PE,,6,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Glaucis,US,PE,,10,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Heliodoxa,US,PE,,8,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Hylocharis,US,PE,,3,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Leucippus,US,PE,,4,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Phaethornis,US,PE,,3,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Phaethornis,US,PE,,30,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Phaethornis,US,PE,,13,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Phaethornis,US,PE,,43,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Phaethornis,US,PE,,3,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Thalurania,US,PE,,22,specimens,,S,W
+II,Aves,Apodiformes,Trochilidae,Threnetes,US,PE,,16,specimens,,S,W
+II,Mammalia,Carnivora,Ursidae,Ursus,BG,RU,1,,trophies,,H,W
+II,Reptilia,Sauria,Varanidae,Varanus,MG,FR,459,,skin pieces,,T,W
+II,Reptilia,Sauria,Varanidae,Varanus,MO,FR,1,,leather products (small),,T,W
+II,Reptilia,Sauria,Varanidae,Varanus,MO,FR,2,,leather products (small),,T,W
+II,Reptilia,Sauria,Varanidae,Varanus,MO,GB,2,,leather products (small),,T,W
+II,Reptilia,Sauria,Varanidae,Varanus,MO,IT,8,,leather products (small),,T,W
+II,Anthozoa,Scleractinia,,,DE,AO,,50,raw corals,kg,S,W
+III,Mammalia,Carnivora,Canidae,Canis,DE,ET,,1,skins,,H,W
+III,Mammalia,Carnivora,Canidae,Canis,US,ET,,7,trophies,,H,W
+III,Aves,Falconiformes,Cathartidae,Sarcoramphus,JP,PE,,2,live,,T,F
+III,Reptilia,Serpentes,Viperidae,Daboia,RS,IT,200,,specimens,,T,F
+III,Mammalia,Carnivora,Viverridae,Civettictis,FR,ET,,635.1,musk,kg,T,R
+III,Mammalia,Carnivora,Viverridae,Civettictis,KR,ET,,480,musk,kg,T,R
